@@ -1,0 +1,37 @@
+#hobby_game{
+    color: white;
+    background-color: #ff5400;
+}
+
+#hobby_youtube{
+    color: white;
+    background-color: #ff0054;
+}
+
+#hobby_trade{
+    color: white;
+    background-color: #ff5400;
+}
+
+#hobby_cook{
+    color: white;
+    background-color: #ff0054;
+}
+
+#body_style{
+    text-align: center;
+}
+
+#email{
+  color: #1becff;
+  font-family: 'Segoe UI';
+}
+
+#my_hobbies{
+  color: #1becff;
+  font-family: 'Segoe UI';
+}
+
+#my_name{
+  font-family: 'Segoe UI';
+}
